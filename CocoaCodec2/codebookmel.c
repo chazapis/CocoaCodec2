@@ -7,7 +7,7 @@
 
 #include "defines.h"
 
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/mel1.txt */
+  /* codebook/mel1.txt */
 static const float codes0[] = {
   550,
   600,
@@ -18,14 +18,14 @@ static const float codes0[] = {
   850,
   900
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/mel2.txt */
+  /* codebook/mel2.txt */
 static const float codes1[] = {
   50,
   100,
   200,
   300
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/mel3.txt */
+  /* codebook/mel3.txt */
 static const float codes2[] = {
   800,
   850,
@@ -44,7 +44,7 @@ static const float codes2[] = {
   1500,
   1650
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/mel4.txt */
+  /* codebook/mel4.txt */
 static const float codes3[] = {
   25,
   50,
@@ -55,7 +55,7 @@ static const float codes3[] = {
   175,
   250
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/mel5.txt */
+  /* codebook/mel5.txt */
 static const float codes4[] = {
   1350,
   1400,
@@ -66,7 +66,7 @@ static const float codes4[] = {
   1650,
   1700
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/mel6.txt */
+  /* codebook/mel6.txt */
 static const float codes5[] = {
   25,
   50,
@@ -75,42 +75,42 @@ static const float codes5[] = {
 };
 
 const struct lsp_codebook mel_cb[] = {
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/mel1.txt */
+  /* codebook/mel1.txt */
   {
     1,
     3,
     8,
     codes0
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/mel2.txt */
+  /* codebook/mel2.txt */
   {
     1,
     2,
     4,
     codes1
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/mel3.txt */
+  /* codebook/mel3.txt */
   {
     1,
     4,
     16,
     codes2
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/mel4.txt */
+  /* codebook/mel4.txt */
   {
     1,
     3,
     8,
     codes3
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/mel5.txt */
+  /* codebook/mel5.txt */
   {
     1,
     3,
     8,
     codes4
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/mel6.txt */
+  /* codebook/mel6.txt */
   {
     1,
     2,

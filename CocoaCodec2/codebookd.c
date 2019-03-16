@@ -7,7 +7,7 @@
 
 #include "defines.h"
 
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp1.txt */
+  /* codebook/dlsp1.txt */
 static const float codes0[] = {
   25,
   50,
@@ -42,7 +42,7 @@ static const float codes0[] = {
   775,
   800
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp2.txt */
+  /* codebook/dlsp2.txt */
 static const float codes1[] = {
   25,
   50,
@@ -77,7 +77,7 @@ static const float codes1[] = {
   775,
   800
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp3.txt */
+  /* codebook/dlsp3.txt */
 static const float codes2[] = {
   25,
   50,
@@ -112,7 +112,7 @@ static const float codes2[] = {
   775,
   800
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp4.txt */
+  /* codebook/dlsp4.txt */
 static const float codes3[] = {
   25,
   50,
@@ -147,7 +147,7 @@ static const float codes3[] = {
   1350,
   1400
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp5.txt */
+  /* codebook/dlsp5.txt */
 static const float codes4[] = {
   25,
   50,
@@ -182,7 +182,7 @@ static const float codes4[] = {
   1350,
   1400
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp6.txt */
+  /* codebook/dlsp6.txt */
 static const float codes5[] = {
   25,
   50,
@@ -217,7 +217,7 @@ static const float codes5[] = {
   1350,
   1400
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp7.txt */
+  /* codebook/dlsp7.txt */
 static const float codes6[] = {
   25,
   50,
@@ -252,7 +252,7 @@ static const float codes6[] = {
   775,
   800
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp8.txt */
+  /* codebook/dlsp8.txt */
 static const float codes7[] = {
   25,
   50,
@@ -287,7 +287,7 @@ static const float codes7[] = {
   775,
   800
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp9.txt */
+  /* codebook/dlsp9.txt */
 static const float codes8[] = {
   25,
   50,
@@ -322,7 +322,7 @@ static const float codes8[] = {
   775,
   800
 };
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp10.txt */
+  /* codebook/dlsp10.txt */
 static const float codes9[] = {
   25,
   50,
@@ -359,70 +359,70 @@ static const float codes9[] = {
 };
 
 const struct lsp_codebook lsp_cbd[] = {
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp1.txt */
+  /* codebook/dlsp1.txt */
   {
     1,
     5,
     32,
     codes0
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp2.txt */
+  /* codebook/dlsp2.txt */
   {
     1,
     5,
     32,
     codes1
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp3.txt */
+  /* codebook/dlsp3.txt */
   {
     1,
     5,
     32,
     codes2
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp4.txt */
+  /* codebook/dlsp4.txt */
   {
     1,
     5,
     32,
     codes3
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp5.txt */
+  /* codebook/dlsp5.txt */
   {
     1,
     5,
     32,
     codes4
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp6.txt */
+  /* codebook/dlsp6.txt */
   {
     1,
     5,
     32,
     codes5
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp7.txt */
+  /* codebook/dlsp7.txt */
   {
     1,
     5,
     32,
     codes6
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp8.txt */
+  /* codebook/dlsp8.txt */
   {
     1,
     5,
     32,
     codes7
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp9.txt */
+  /* codebook/dlsp9.txt */
   {
     1,
     5,
     32,
     codes8
   },
-  /* /Users/chazapis/Source/chazapis/codec2-dev/src/codebook/dlsp10.txt */
+  /* codebook/dlsp10.txt */
   {
     1,
     5,
