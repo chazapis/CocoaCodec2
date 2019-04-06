@@ -2,6 +2,8 @@
 
 Cocoa Framework for the [Codec 2](http://rowetel.com/codec2.html) low bit-rate speech codec. Provides both macOS and iOS targets and is [Carthage](https://github.com/Carthage/Carthage) compatible.
 
+Used by [CocoaDV](https://github.com/chazapis/CocoaDV) and, by extension, Estrella, the ORF reflector client for [macOS](https://github.com/chazapis/Estrella-macOS) and [iOS](https://github.com/chazapis/Estrella-iOS).
+
 ## Production notes
 
 The included files were copied over from `r3898` (2018-11-02) of the Codec 2 [SVN repository](https://svn.code.sf.net/p/freetel/code/codec2/branches/).
